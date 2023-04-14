@@ -1,0 +1,20 @@
+.headerContainer {
+  height: 60px;
+  width: 100%;
+  background-color: rgb(14, 205, 27);
+}
+.divContainer {
+  margin-left: 10%;
+  display: flex;
+  height: 100%;
+}
+.center {
+  text-align: center;
+}
+
+.logo {
+  display: flex;
+  height: 100%;
+  font-size: 20px;
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+.textContainer {
+    width: 300px;
+    border: 1px solid lightgray;
+    height: 20px;    
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+}

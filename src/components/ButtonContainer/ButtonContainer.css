@@ -1,0 +1,14 @@
+.btnContainer {
+    justify-content: center;
+    display: flex;
+    margin: 30px;
+}
+.btn{
+    min-width: 120px;
+    min-height: 32px;
+    color: white;
+    font-size: 14px;
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: rgb(14, 205, 27);
+}
